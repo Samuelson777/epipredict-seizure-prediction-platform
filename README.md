@@ -2,6 +2,8 @@
 
 **EpiPredict** is an enterprise-grade, multimodal Big Data and Deep Learning platform engineered for real-time epileptic seizure prediction, continuous neurophysiological pattern tracking, and closed-loop clinical alerting. Built upon the foundational neuroengineering blueprint by **Samuelson G** and extended with state-of-the-art spatiotemporal deep learning architectures, the platform shifts epilepsy management from reactive post-ictal detection to proactive pre-ictal forecasting.
 
+[![Hugging Face](https://img.shields.io/badge/EpiPredict-%23323330.svg?style=plastic&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Samuelson77/epipredict-seizure-prediction-platform)
+
 ---
 
 ## 📋 Table of Contents
